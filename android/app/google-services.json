@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927597837055",
+    "project_id": "unet-99831",
+    "storage_bucket": "unet-99831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927597837055:android:3bc99be7b77344c7086aca",
+        "android_client_info": {
+          "package_name": "com.towsifahmed.unet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927597837055-l82ni701m6ofsiml3m3eohvairiuc1u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvE3KgaATi1wqCV9ad0Dg2OSylN3bKw-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927597837055-l82ni701m6ofsiml3m3eohvairiuc1u7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
